@@ -1,4 +1,4 @@
-# Responsive HTML Email Templates for Outlook & Cross-Client Compatibility
+# Responsive HTML/CSS JS Email Templates for Outlook & Cross-Client Compatibility
 
 ## Overview
 
