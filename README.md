@@ -2,9 +2,11 @@
 
 ## Overview
 
-This repository contains production-ready responsive HTML email templates designed for maximum compatibility across major email clients, including Outlook 2019, Outlook 365, Gmail, Apple Mail, Yahoo Mail, and mobile email applications.
+Results-driven Software Engineer and MarTech professional with 10+ years of experience in campaign development, front-end web technologies, marketing automation, and Adobe Experience Cloud. Strong hands-on experience with JavaScript, HTML, CSS, campaign personalization, A/B testing, and customer journey optimization across Adobe Campaign and Adobe Journey Optimizer. Experienced in integrating and working across AEP, RTCDP, AJO and other MarTech platforms to deliver data-driven customer experiences. Skilled in browser debugging, network diagnostics, troubleshooting, and cross-client QA, with a strong understanding of web application fundamentals, security, session management, and development best practices. 
 
-The templates demonstrate advanced email development techniques such as VML background images, responsive table-based layouts, hybrid email coding, mobile-first design, Outlook conditional comments, and cross-client rendering optimization.
+#Skills
+SQL, HTML5, CSS3, Responsive Design, JavaScript/jQuery, Bootstrap, Adobe Photoshop, Python, Power BI, Landing Pages & Email Templates, Basic Backend Knowledge, Material Design & Graphic Design, Microsoft Office, Team Collaboration & Time Management, Salesforce Content Manager, Experience Platform (AEP), Adobe Campaign Classic (ACC), CJA, Marketing Automation, Email Deliverability & Compliance, Segmentation & Personalization, Campaign Lifecycle Management (CDLC), Data Modeling & Schema Configuration,  Taximail, A/B Testing & Campaign Optimization, Cross-functional Collaboration, Customer Data Platforms (CDPs), Braze and Litmus.
+
 
 ## Key Features
 * Responsive HTML email development
